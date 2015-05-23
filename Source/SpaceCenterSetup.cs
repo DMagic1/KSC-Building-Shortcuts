@@ -57,7 +57,7 @@ namespace KSCBuildingShortcuts
 			Rect r4 = new Rect(r3.x + 42, r1.y, size, size);
 			Rect r5 = new Rect(r4.x + 42, r1.y, size, size);
 			Rect r6 = new Rect(r5.x + 42, r1.y, size, size);
-			Rect r7 = new Rect(r6.x + 400, r1.y, size, size);
+			Rect r7 = new Rect(r6.x + 42, r1.y, size, size);
 			Rect r8 = new Rect(r7.x + 42, r1.y, size, size);
 			Rect r9 = new Rect(r8.x + 42, r1.y, size, size);
 			Rect r10 = new Rect(r9.x + 42, r1.y, size, size);
